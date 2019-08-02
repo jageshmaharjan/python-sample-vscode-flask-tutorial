@@ -1,6 +1,6 @@
 # This is the completed azure-pipelines.yaml file from previous steps.
 variables:
-  ConnectedServiceName: 'Azure DelvifyPy'
+  ConnectedServiceName: 'NewAzure'
   WebAppName: 'jugsdelvflask'
 
 trigger:
